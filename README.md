@@ -34,7 +34,17 @@ Chinook Music Store operates in multiple countries and offers digital music sale
         
         •	Determine the most popular music genre for each country.
 
-# 📊 Insights & Recommendations
+# 📊 Methodology
+
+• I ensured proper importing of each entity into the database.
+
+• I ensured the attributes of each entity had the appropriate data type and constraints.
+
+• I created an ERD diagram to show proper relationships between each entity.
+
+• I executed SQL queries in SQL Server Management Studio (SSMS) to retrieve insights.
+
+# 📝 Insights & Recommendations
 #### 1. Employee Management & Performance Analysis
 
 •The most senior employee being the Senior General Manager plays a crucial role in decision-making and can be leveraged for strategic business improvements.
